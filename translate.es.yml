@@ -1,0 +1,42 @@
+title: <h3 align='center'>Visualización de Datos de Desarrollador Software</h3>
+intro: Los datos analizados han sido seleccionados del informe de la *Encuesta anual de StackOverflow 2022*, la cual recoge información de cerca de **73 mil** desarrolladores de software de entre **180** países alrededor del mundo.
+title_graph_1: ##### Número total de entrevistas seleccionadas de cada país
+comment_graph_1: El histograma abajo  muestra claramente que **Estados Unidos** es, de forma destacada, el país donde se han realizado más entrevistas.
+title_graph_2: ##### Salario Medio acorde al País
+predict_intro_2: Se ha aplicado *Regresión Lineal Múltiple* para construir el modelo predictivo.
+predict_select_info: **Información para predecir el salario:**
+Explore: Visualizar Datos
+Predict: Predecir Datos
+Salary: Salario
+Country: País
+Education Level: Nivel de Educación
+Years of Experience: Años de Experiencia
+Calculate Salary: Calcular Salario
+comment_graph_2: Podemos afirmar viendo el gráfico abajo que hay sólo tres países en los cuales el salario medio de un desarrollador está por encima de 100 mil dólares: **Israel**, **Suiza** y **Estados Unidos**.
+title_graph_3: ##### Salario Medio según Experiencia
+comment_graph_3: Del Gráfico de Líneas abajo podemos observar que existe un **rango entre 28 y 34 años** de experiencia como desarrollador profesional donde el salario medio es bastante alto.
+predict_title: <h3 align='center'>Predicción de Salario de Desarrollador Software</h3>
+predict_intro_1: Nuestra predicción se centra en el **salario** del desarrollador, según el **país**, **nivel de educación** y **experiencia**.
+The estimated salary is: El salario estimado es de
+United States of America: Estados Unidos
+India: India
+Germany: Alemania
+United Kingdom of Great Britain and Northern Ireland: Reino Unido
+Canada: Canadá
+France: Francia
+Brazil: Brasil
+Spain: España
+Netherlands: Países Bajos
+Australia: Australia
+Poland: Polonia
+Italy: Italia
+Russian Federation: Rusia
+Sweden: Suecia
+Turkey: Turquía
+Switzerland: Suiza
+Israel: Israel
+Norway: Noruega
+Less than a Bachelor’s degree: Inferior a un Título de Grado
+Bachelor’s degree: Título de Grado
+Master’s degree: Título de Máster
+Post grad: Posgrado

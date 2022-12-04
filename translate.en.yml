@@ -1,0 +1,42 @@
+title: <h3 align='center'>Software Developer Data Exploration</h3>
+intro: Analyzed data is selected from *2022 StackOverflow's annual survey* report, which collects info from around **73k** software developers from **180** countries around the world.
+title_graph_1: ##### Total number of selected Surveys from each Country
+comment_graph_1: The histogram below shows clearly that **USA** is prominently the country where a bigger amount of surveys were conducted.
+title_graph_2: ##### Mean Salary based on Country
+comment_graph_2: We can state from the graph below that there are only three countries whose developer's mean salary is over $100k: **Israel**, **Switzerland** and **USA**.
+title_graph_3: ##### Mean Salary based on Experience
+comment_graph_3: From the Chart Line below we can see that there's a **range between 28 and 34 years** of coding experience as a professional where the mean salaries are quite high.
+predict_title: <h3 align='center'>Sotfware Developer Salary Prediction</h3>
+predict_intro_1: Our prediction is focused on developer's **salary** based on **country**, **education level** and **experience**.
+predict_intro_2: *Multiple Linear Regression* method has been applied in order to build the predictive model.
+predict_select_info: **Information to predict the salary:**
+Explore: Exploring Data
+Predict: Predicting Data
+Salary: Salary
+Country: Country
+Education Level: Education Level
+Years of Experience: Years of Experience
+Calculate Salary: Calculate Salary
+The estimated salary is: The estimated salary is
+United States of America: USA
+India: India
+Germany: Germany
+United Kingdom of Great Britain and Northern Ireland: UK
+Canada: Canada
+France: France
+Brazil: Brazil
+Spain: Spain
+Netherlands: Netherlands
+Australia: Australia
+Poland: Poland
+Italy: Italy
+Russian Federation: Russia
+Sweden: Sweden
+Turkey: Turkey
+Switzerland: Switzerland
+Israel: Israel
+Norway: Norway
+Less than a Bachelor’s degree: Less than a Bachelor's degree
+Bachelor’s degree: Bachelor's degree
+Master’s degree: Master's degree
+Post grad: Post grad
